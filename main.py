@@ -1,6 +1,7 @@
 import circlify
 import matplotlib.pyplot as plt
 import pro_capite_data
+import pro_capite_region
 from statistics import mean
 
 data = [{'id': 'World', 'datum': 16263, 'children': [
