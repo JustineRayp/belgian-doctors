@@ -119,3 +119,8 @@ cbar.set_ticks(custom_ticks)
 cbar.set_ticklabels(custom_labels)
 plt.figtext(0.45, 0.05, "Data from 2018 (https://overlegorganen.gezondheid.belgie.be/nl/documenten/hwf-statan-2018-detailstatistieken)", wrap=True, horizontalalignment='center', fontsize=9)
 plt.show()
+
+
+plt.figtext(0.45, 0.05, "Data from 2018 (https://overlegorganen.gezondheid.belgie.be/nl/documenten/hwf-statan-2018-detailstatistieken)", wrap=True, horizontalalignment='center', fontsize=9)
+plt.show()
+print(min(list_red))
